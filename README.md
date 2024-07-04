@@ -13,7 +13,7 @@ Style your App
 Add a reset Button to restart game
 https://react.dev/learn/tutorial-tic-tac-toe
 
-GitHub: https://github.com/dljimenez2324/TicTacToeP2
+GitHub: https://github.com/Raquelbateman/TicTacToeChapter2
 
 Reviewed by: David Jimenez
 
