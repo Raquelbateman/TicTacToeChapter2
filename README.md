@@ -1,7 +1,7 @@
 # Challenge 1 Tic Tac Toe Game in React Part 2
 Tic Tac Toe Game in React
 
-Name: Alicia Bryant <br>
+Name: Alicia Spruell <br>
 Date: 06/28/2024 <br>
 Project Name:Challenge 1 Tic Tac Toe Game in React Part 2 <br> <br>
 
